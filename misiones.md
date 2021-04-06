@@ -6,4 +6,5 @@
 4. Buescar nuevos heroes
 5. Acabar con death stroke, gatubela y joker
 6. pedir ayuda a flash
+7. proteger las cajas madre
 
