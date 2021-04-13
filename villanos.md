@@ -8,3 +8,6 @@
 * Deathstroke 
 * Harly Queen
 * Dessad
+* Mr Frio
+* Black  Mantha
+*  Flash reverse
